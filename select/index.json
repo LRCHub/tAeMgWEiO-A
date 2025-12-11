@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Play the game",
+  "base_artist": "亜咲花",
+  "createdAt": "2025-12-11T05:12:44.606428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Play The Game Right - 7\" Edit",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": false,
+      "path": "select/01_Play_The_Game_Right_-_7__Edit_Ziggy_Marley_&_The_Melody_Makers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Play the Game",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/02_Play_the_Game_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Play the Game",
+      "artist": "Cruskin",
+      "has_synced": false,
+      "path": "select/03_Let's_Play_the_Game_Cruskin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Play The Game - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Play_The_Game_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Play The Game",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_Play_The_Game_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Play the Game (extended version)",
+      "artist": "Roni Size feat. Reprazent",
+      "has_synced": false,
+      "path": "select/06_Play_the_Game_(extended_version)_Roni_Size_feat._Reprazent.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Play The Game (Live At The Montreal Forum \u0000 November 1981)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_Play_The_Game_(Live_At_The_Montreal_Forum_\u0000_November_1981)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Play the Game",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/08_Play_the_Game_Queen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We All Play the Game",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/09_We_All_Play_the_Game_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Play The Game - Remastered 2011",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_Play_The_Game_-_Remastered_2011_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Play The Game (Remastered 2011)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Play_The_Game_(Remastered_2011)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Play the Game Tonight",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/12_Play_the_Game_Tonight_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Play the Game",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Play_the_Game_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Play the Game",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Play_the_Game_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Play the Game",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/15_Play_the_Game_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play the game",
+      "artist": "亜咲花",
+      "has_synced": false,
+      "path": "select/pl_01_Play_the_game_亜咲花.txt"
+    }
+  ]
+}
